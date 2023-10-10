@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokedex-react/static/css/main.e6c13ad2.css",
+    "main.js": "/pokedex-react/static/js/main.280e00e5.js",
+    "static/media/hourglass.png": "/pokedex-react/static/media/hourglass.6a572ba1a3a26bdc4d74.png",
+    "index.html": "/pokedex-react/index.html",
+    "main.e6c13ad2.css.map": "/pokedex-react/static/css/main.e6c13ad2.css.map",
+    "main.280e00e5.js.map": "/pokedex-react/static/js/main.280e00e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.280e00e5.js"
+  ]
+}
