@@ -1,7 +1,5 @@
 # Pokedéx with React.js
 
-##[Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
-
 ## Project's Scope
 * List Pokémons basic info in cards
 * View detailed info of each Pokémon
@@ -9,6 +7,7 @@
 * Search Pokémon by it's Name
 * Dark mode
 * Responsive design
+* [Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
 
 ![]()
 
