@@ -9,7 +9,8 @@
 * Responsive design
 * [Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
 
-![]()
+![pokemon-react](https://github.com/JFilgueira/pokedex-react/assets/103948600/b2256f72-a70a-4024-bce9-fc8a7ed9b652)
+
 
 ## Getting started
 
