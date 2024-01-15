@@ -10,6 +10,7 @@
 * [Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
 
 ![pokemon-react](https://github.com/JFilgueira/pokedex-react/assets/103948600/b2256f72-a70a-4024-bce9-fc8a7ed9b652)
+![pokemon-react-mobile](https://github.com/JFilgueira/pokedex-react/assets/103948600/ea6ce110-cb46-423d-a8bd-88d55471b95a)
 
 
 ## Getting started
