@@ -1,7 +1,7 @@
 # Pokedéx with React.js
 
 ## Project's Scope
-This was the first project with React.js that I've made on my own, and knowing that in terms of funcionality there wasn't much to do with the info besides show it in a kind static way, I've tried to add a couple of things to give more life to the app as the favorite functionality, dark mode, the other pages that bahave like popups and things like that. I had great time doin it and I hope you too have using it! Wanted to start simples but efficiently
+This was the first project with React.js that I've made on my own. Knowing that, in terms of functionality, there wasn't much to do with the info besides showing it in a somewhat static way, I tried to add a couple of things to give more life to the app. This included features like the favorite functionality, dark mode, and other pages that behave like popups, among other things. I had a great time doing it, and I hope you enjoy using it too! I wanted to start simple but efficient.
 
 * List Pokémons basic info in cards
 * View detailed info of each Pokémon
