@@ -3,10 +3,10 @@
 ## Project's Scope
 This was the first project with React.js that I've made on my own. Knowing that, in terms of functionality, there wasn't much to do with the info besides showing it in a somewhat static way, I tried to add a couple of things to give more life to the app. This included features like the favorite functionality, dark mode, and other pages that behave like popups, among other things. I had a great time doing it, and I hope you enjoy using it too! I wanted to start simple but efficient.
 
-* List Pokémons basic info in cards
-* View detailed info of each Pokémon
-* Favorite Pokémons
-* Search Pokémon by it's Name
+* Display basic Pokémons info in cards
+* View detailed information for each Pokémon
+* Favorite Pokémon feature
+* Search for a Pokémon by its name
 * Dark mode
 * Responsive design
 * [Live preview on Vercel](https://pokedex-react-flax.vercel.app/)
